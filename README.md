@@ -1,4 +1,4 @@
-# Utensil Classifer
+# The Ultimate Eating Utensils Classifier
 "For when you don't know what you're eating with"
 
 Following along with Google Developer's "Machine Learning Recipes" series (https://youtu.be/cKxRvEZd3Mw), this Python application uses the Tensorflow library to classify different images of eating utensils.
