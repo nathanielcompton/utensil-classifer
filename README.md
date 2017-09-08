@@ -15,3 +15,5 @@ Additionally, `label_image.py -h` is an excellent help tool
 - Unit testing
 - More robust training data
 - Mobile implementation
+
+<img src="https://i.imgur.com/A1bNOwu.png">
