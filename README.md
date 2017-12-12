@@ -6,7 +6,7 @@ Following along with Google Developer's "Machine Learning Recipes" series (https
 To Run:
 ```
 $ cd <project directory>
-$ python scripts/label_image.py --image <image destination>
+$ python scripts/label_image.py --image <path_to_image>
 ```
 
 Additionally, `label_image.py -h` is an excellent help tool
